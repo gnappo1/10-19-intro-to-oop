@@ -15,6 +15,6 @@
 
 ## Other References: 
 
-[Avi's Ruby OOP Slides](https://docs.google.com/presentation/d/1m0OyB19H5ttCJoC5MreXevnosCgnVYQk6AwvMxnDQP0/edit#slide=id.g242f42befb_0_142)
-[Ruby OOP Slides - in depth](https://docs.google.com/presentation/d/1IfoTX-pT-obXy3ksFy6076YW7HZqBVd1V40Pd0vaYzw/edit?usp=sharing)
+- [Avi's Ruby OOP Slides](https://docs.google.com/presentation/d/1m0OyB19H5ttCJoC5MreXevnosCgnVYQk6AwvMxnDQP0/edit#slide=id.g242f42befb_0_142)
+- [Ruby OOP Slides - in depth](https://docs.google.com/presentation/d/1IfoTX-pT-obXy3ksFy6076YW7HZqBVd1V40Pd0vaYzw/edit?usp=sharing)
 
